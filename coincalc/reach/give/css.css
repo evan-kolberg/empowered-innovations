@@ -1,0 +1,11 @@
+body {
+    height: 100%;
+    margin: auto;
+    vertical-align: top;
+    padding: 5%;
+    
+}
+
+h1, h5 {
+	text-align: center;
+}
